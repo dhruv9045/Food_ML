@@ -1,23 +1,29 @@
-[
-  {
-    "brand": "Colgate",
-    "company": "cold",
-    "based": "nwewj",
-    "manf": "Dodjfk",
-    "other": "lhflw"
-  },
-  {
-    "brand": "Colgate",
-    "company": "cold",
-    "based": "nwewj",
-    "manf": "Dodjfk",
-    "other": "lhflw"
-  },
-  {
-    "brand": "Colgate",
-    "company": "cold",
-    "based": "nwewj",
-    "manf": "Dodjfk",
-    "other": "lhflw"
+{
+  "error": {
+    "errors": [
+      {
+        "brand": "Colgate",
+        "company": "cold",
+        "based": "nwewj",
+        "manf": "Dodjfk",
+        "other": "lhflw"
+      },
+      {
+        "brand": "Colgate",
+        "company": "cold",
+        "based": "nwewj",
+        "manf": "Dodjfk",
+        "other": "lhflw"
+      },
+      {
+        "brand": "Colgate",
+        "company": "cold",
+        "based": "nwewj",
+        "manf": "Dodjfk",
+        "other": "lhflw"
+      }
+    ],
+    "code": 200,
+    "message": "Login Required"
   }
-]
+}
