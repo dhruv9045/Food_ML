@@ -1,7 +1,6 @@
-{
-  "error": {
-    "errors":[
+[
       {
+        "index": 0,
         "brand": "Colgate",
         "company": "cold",
         "based": "nwewj",
@@ -9,6 +8,7 @@
         "other": "lhflw"
       },
       {
+        "index": 1,
         "brand": "Colgate",
         "company": "cold",
         "based": "nwewj",
@@ -16,14 +16,11 @@
         "other": "lhflw"
       },
       {
+        "index": 2,
         "brand": "Colgate",
         "company": "cold",
         "based": "nwewj",
         "manf": "Dodjfk",
         "other": "lhflw"
       }
-    ],
-    "code": 200,
-    "message":"Failed"  
-  }
-}
+]
