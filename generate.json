@@ -1,26 +1,26 @@
 [
-      {
-        "index": 0,
-        "brand": "Colgate",
-        "company": "cold",
-        "based": "nwewj",
-        "manf": "Dodjfk",
-        "other": "lhflw"
-      },
-      {
-        "index": 1,
-        "brand": "Colgate",
-        "company": "cold",
-        "based": "nwewj",
-        "manf": "Dodjfk",
-        "other": "lhflw"
-      },
-      {
-        "index": 2,
-        "brand": "Colgate",
-        "company": "cold",
-        "based": "nwewj",
-        "manf": "Dodjfk",
-        "other": "lhflw"
-      }
+  {
+    "index": 0,
+    "brand": "Colgate",
+    "company": "cold",
+    "based": "nwewj",
+    "manf": "Dodjfk",
+    "other": "lhflw"
+  },
+  {
+    "index": 1,
+    "brand": "Colgate",
+    "company": "cold",
+    "based": "nwewj",
+    "manf": "Dodjfk",
+    "other": "lhflw"
+  },
+  {
+    "index": 2,
+    "brand": "Colgate",
+    "company": "cold",
+    "based": "nwewj",
+    "manf": "Dodjfk",
+    "other": "lhflw"
+  }
 ]
