@@ -22,6 +22,5 @@
         "other": "lhflw"
       }
     ],
-    "code": 200,
-    "message": "Login Required"
+    "code": 200
 }
