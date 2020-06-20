@@ -1,6 +1,5 @@
 {
-  "error": {
-    [
+  "error": [
       {
         "brand": "Colgate",
         "company": "cold",
@@ -25,5 +24,4 @@
     ],
     "code": 200,
     "message": "Login Required"
-  }
 }
