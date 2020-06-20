@@ -1,5 +1,6 @@
 {
-  "error": [
+  "error": {
+    "errors":[
       {
         "brand": "Colgate",
         "company": "cold",
@@ -22,5 +23,7 @@
         "other": "lhflw"
       }
     ],
-    "code": 200
+    "code": 200,
+    "message":"Failed"  
+  }
 }
