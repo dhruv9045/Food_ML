@@ -1,26 +1,56 @@
 [
   {
-    "index": 0,
-    "brand": "Colgate",
-    "company": "cold",
-    "based": "nwewj",
-    "manf": "Dodjfk",
-    "other": "lhflw"
-  },
+    "index": 0, 
+    "based": "nwewj", 
+    "picture": "http://cdn.designcrowd.com.s3.amazonaws.com/blog/2016/January/top-company-logos-one-color/9_Nike_400.png", 
+    "brand": "Colgate", 
+    "other": "sfd", 
+    "manf": "w", 
+    "company": "new"
+  }, 
   {
-    "index": 1,
-    "brand": "Colgate",
-    "company": "cold",
-    "based": "nwewj",
-    "manf": "Dodjfk",
-    "other": "lhflw"
-  },
+    "index": 1, 
+    "based": "eedfvd", 
+    "picture": "http://cdn.designcrowd.com.s3.amazonaws.com/blog/2016/January/top-company-logos-one-color/4_McDonalds_400.png", 
+    "brand": "dcdsfe", 
+    "other": "dvdq", 
+    "manf": "sdd", 
+    "company": "dcsa"
+  }, 
   {
-    "index": 2,
-    "brand": "Colgate",
-    "company": "cold",
-    "based": "nwewj",
-    "manf": "Dodjfk",
-    "other": "lhflw"
+    "index": 2, 
+    "based": "avefac", 
+    "picture": "http://cdn.designcrowd.com.s3.amazonaws.com/blog/2016/January/top-company-logos-one-color/15_HP_400.png", 
+    "brand": "advea", 
+    "other": "asefac", 
+    "manf": "accs", 
+    "company": "vdasc"
+  }, 
+  {
+    "index": 3, 
+    "based": "avefac", 
+    "picture": "http://cdn.designcrowd.com.s3.amazonaws.com/blog/2016/January/top-company-logos-one-color/15_HP_400.png", 
+    "brand": "advea", 
+    "other": "asefac", 
+    "manf": "accs", 
+    "company": "vdasc"
+  }, 
+  {
+    "index": 4, 
+    "based": "avefac", 
+    "picture": "http://cdn.designcrowd.com.s3.amazonaws.com/blog/2016/January/top-company-logos-one-color/15_HP_400.png", 
+    "brand": "advea", 
+    "other": "asefac", 
+    "manf": "accs", 
+    "company": "vdasc"
+  }, 
+  {
+    "index": 5, 
+    "based": "avefac", 
+    "picture": "http://cdn.designcrowd.com.s3.amazonaws.com/blog/2016/January/top-company-logos-one-color/15_HP_400.png", 
+    "brand": "advea", 
+    "other": "asefac", 
+    "manf": "accs", 
+    "company": "vdasc"
   }
 ]
